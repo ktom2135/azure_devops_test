@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/azureDevOpsWebTest/.vs
+/azureDevOpsWebTest/azureDevOpsLiab/bin/Debug
+/azureDevOpsWebTest/azureDevOpsLiab/obj/Debug
+/azureDevOpsWebTest/azureDevOpsTest/bin/Debug
+/azureDevOpsWebTest/azureDevOpsTest/obj/Debug
+/azureDevOpsWebTest/azureDevOpsWeb/bin
+/azureDevOpsWebTest/packages
