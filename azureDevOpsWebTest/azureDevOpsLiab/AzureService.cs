@@ -9,7 +9,7 @@ namespace azureDevOpsTestLiab
 {
     public class AzureService
     {
-        public bool Sleep100()
+        public bool Sleep100ThenReturnTrue()
         {
             Thread.Sleep(500);
 

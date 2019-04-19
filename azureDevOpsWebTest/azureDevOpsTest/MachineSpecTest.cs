@@ -17,7 +17,7 @@ namespace azureDevOpsTest
             Subject = new AzureService();
 
         Because of = () =>
-            Result = Subject.Sleep100();
+            Result = Subject.Sleep100ThenReturnTrue();
 
         It should_indicate_the_users_role = () =>
             Result.ShouldEqual(true);
