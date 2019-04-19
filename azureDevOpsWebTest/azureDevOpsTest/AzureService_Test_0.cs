@@ -16,7 +16,7 @@ namespace azureDevOpsTest
         public void test_2()
         {
             AzureService azureService = new AzureService();
-            Assert.False(azureService.SleepAndReturnTrue());
+            Assert.True(azureService.SleepAndReturnTrue());
         }
         [Fact]
         public void test_3()
