@@ -9,3 +9,7 @@
 /azureDevOpsWebTest/azureDevOpsTest/obj/Debug
 /azureDevOpsWebTest/azureDevOpsWeb/bin
 /azureDevOpsWebTest/packages
+/azureDevOpsWebTest/azureDevOpsTest/bin
+/azureDevOpsWebTest/.idea
+/azureDevOpsWebTest/azureDevOpsWeb/obj
+/azureDevOpsWebTest/azureDevOpsWeb.sln.DotSettings.user
